@@ -1,0 +1,9 @@
+/**************
+This project is developed by Cppbuzz.com with intention to provide full functionality 
+of a PHP application to CppBuzz's users. Users are allowed to download it, modify it for their use but 
+It is not allowed to restribute it & sell to any other person.
+
+The source of this project is followoing url:-
+https://www.cppbuzz.com/php/projects/tailor-shop-management-project-in-php
+
+***************/
